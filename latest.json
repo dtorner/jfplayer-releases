@@ -1,0 +1,12 @@
+{
+  "versionCode": 102,
+  "versionName": "1.1.3",
+  "title": "Jeyfi 1.1.3 (build 102)",
+  "notes": "1.1.3: Ajustes recuerda la fila con foco al volver de un submenú",
+  "release": "jfplayer-release.apk",
+  "releaseSize": 64052296,
+  "debug": "jfplayer-debug.apk",
+  "debugSize": 84248389,
+  "releaseSha256": "136e2d55ae140f10b874d5e75edb2cac2a0db54b43eaef59b4eeec8a3c6e0573",
+  "debugSha256": "09483c84300eafb72531f9451a5e06be61d268e705f7de2eafeddb25e6f3e194"
+}
